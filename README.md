@@ -1,4 +1,4 @@
-# ImageJ-Scripts :microscope: :octocat: :mouse2: :hospital:
+# :octocat:ImageJ-Scripts :microscope::mouse2::hospital:
 A collection of ImageJ/FiJi scripts.
 # Tiled_ThunderSTORM.py
 For WOSM.
