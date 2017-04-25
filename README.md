@@ -1,4 +1,4 @@
-# ImageJ-Scripts
+# ImageJ-Scripts :microscope:
 A collection of ImageJ/FiJi scripts.
 # Tiled_ThunderSTORM.py
 For WOSM.
