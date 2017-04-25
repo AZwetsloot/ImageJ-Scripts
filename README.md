@@ -1,6 +1,6 @@
 # ImageJ-Scripts :microscope::mouse2::hospital:
 A collection of ImageJ/FiJi scripts.
-### Tiled_ThunderSTORM.py
+### [Tiled_ThunderSTORM.py](https://github.com/AZwetsloot/ImageJ-Scripts/blob/master/Tiled_ThunderSTORM.py)
 Made for Warwick Open-source Microscope (WOSM). Could work elsewhere.
 
 A jython bolt-on that attempts to batch process STORM/PALM stacks, apply offsets to them, and concat' into one larger tiled image.
