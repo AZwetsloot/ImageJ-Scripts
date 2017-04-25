@@ -1,5 +1,5 @@
 # ImageJ-Scripts :microscope::mouse2::hospital:
-A collection of ImageJ/FiJi scripts.
+A collection of ImageJ/FiJi scripts that work for me, but might not for you.
 ### [Tiled_ThunderSTORM.py](https://github.com/AZwetsloot/ImageJ-Scripts/blob/master/Tiled_ThunderSTORM.py)
 Made for Warwick Open-source Microscope (WOSM). Could work elsewhere.
 
