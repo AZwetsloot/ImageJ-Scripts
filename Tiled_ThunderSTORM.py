@@ -105,6 +105,7 @@ def applyOffsets(fileList, jsonSettings, outputFilename):
 		myWriter.writerows(finalOutputCSV)	
 	print("Finished!")
 	WindowManager.closeAllWindows()
+	IJ.run("Import results", "filepath="+outputFilename+" fileformat=[CSV (comma separated)] livepreview=true rawimagestack= startingframe=1 append=false");
 	return
 
 def runThunderSTORM(filename):
