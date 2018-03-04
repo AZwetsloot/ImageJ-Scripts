@@ -9,3 +9,9 @@ Pop in your plugins folder to have a go. Modify the settings for ThunderSTORM at
 
 *Requires that ThunderSTORM plugin is installed...*
 
+### [AutoMontage.ijm](https://github.com/AZwetsloot/ImageJ-Scripts/blob/master/AutoMontage.ijm)
+Automatically make two-colour montages + a merge image next to it.
+
+Useful for processing two-colour microscopy quickly.
+
+
