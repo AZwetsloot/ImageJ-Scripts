@@ -14,4 +14,8 @@ Automatically make two-colour montages + a merge image next to it.
 
 Useful for processing two-colour microscopy quickly.
 
+Example:
+
+![alt text](https://github.com/AZwetsloot/ImageJ-Scripts/blob/master/automontage_example.jpg?raw=true)
+
 
