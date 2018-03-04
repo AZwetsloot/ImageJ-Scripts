@@ -18,6 +18,9 @@ Then if there's more channels to be processed, it will open up those images and 
 
 ROIs are saved so that you can always look back.
 
+### [MultiRoi_Kymograph.ijm](https://github.com/AZwetsloot/ImageJ-Scripts/blob/master/MultiRoi_Kymograph.ijm)
+Loop through all of ROIs in the ROI manager, generate kymograph, auto-contrast, invert and save with identifying number.
+
 ### [Tiled_ThunderSTORM.py](https://github.com/AZwetsloot/ImageJ-Scripts/blob/master/Tiled_ThunderSTORM.py)
 Made for Warwick Open-source Microscope (WOSM). Could work elsewhere.
 
