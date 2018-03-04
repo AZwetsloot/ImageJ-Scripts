@@ -21,6 +21,8 @@ ROIs are saved so that you can always look back.
 ### [MultiRoi_Kymograph.ijm](https://github.com/AZwetsloot/ImageJ-Scripts/blob/master/MultiRoi_Kymograph.ijm)
 Loop through all of ROIs in the ROI manager, generate kymograph, auto-contrast, invert and save with identifying number.
 
+Makes a folder the same name as the image you are working on. In this folder, it saves the kymographs and the ROIs that were used so that you can always look back.
+
 ### [Tiled_ThunderSTORM.py](https://github.com/AZwetsloot/ImageJ-Scripts/blob/master/Tiled_ThunderSTORM.py)
 Made for Warwick Open-source Microscope (WOSM). Could work elsewhere.
 
